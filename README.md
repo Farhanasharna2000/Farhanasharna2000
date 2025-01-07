@@ -1,5 +1,10 @@
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/Farhanasharna2000/Farhanasharna2000/61e92d47502401d8bcda8ef3a08d8ee8385b5cb4/20240913_172706.jpg" alt="Farhana Akter Sharna" />
+ <img 
+  src="https://raw.githubusercontent.com/Farhanasharna2000/Farhanasharna2000/61e92d47502401d8bcda8ef3a08d8ee8385b5cb4/20240913_172706.jpg" 
+  alt="Farhana Akter Sharna" 
+  style="width: 100%; height: auto;" 
+/>
+
 </div>
 
 #  Hi there, I'm **Farhana Akter Sharna** 👋  
