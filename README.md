@@ -1,12 +1,11 @@
 <div align="center">
-<img 
-  src="https://github.com/Farhanasharna2000/Farhanasharna2000/blob/a92165c0443840a54a515eb11d90341b952c2bdb/pexels-shkrabaanthony-5475752.jpg?raw=true" 
-  alt="Farhana Akter Sharna" 
-  style="width: 100%; height: 450px;" 
-/>
-
-
+  <img 
+    src="https://github.com/Farhanasharna2000/Farhanasharna2000/blob/a92165c0443840a54a515eb11d90341b952c2bdb/pexels-shkrabaanthony-5475752.jpg?raw=true" 
+    alt="Farhana Akter Sharna" 
+    style="width: 100%; max-height: 450px; height: auto;" 
+  />
 </div>
+
 
 #  Hi there, I'm **Farhana Akter Sharna** 👋  
 
