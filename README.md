@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-  src="https://raw.githubusercontent.com/Farhanasharna2000/Farhanasharna2000/61e92d47502401d8bcda8ef3a08d8ee8385b5cb4/20240913_172706.jpg" 
+  src="https://github.com/Farhanasharna2000/Farhanasharna2000/blob/a92165c0443840a54a515eb11d90341b952c2bdb/pexels-shkrabaanthony-5475752.jpg?raw=true" 
   alt="Farhana Akter Sharna" 
   style="width: 100%; height: auto;" 
 />
