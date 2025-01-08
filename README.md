@@ -77,7 +77,7 @@
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Farhanasharna2000&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhanasharna2000&layout=compact&theme=radical" alt="Top Languages" /> </div> 
 <p align="center" style="margin-top: 12px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhanasharna2000&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&background=141321" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhanasharna2000&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://github.com/DenverCoder1/github-readme-streak-stats" alt="GitHub Streak Stats" />
 </p>
 
 
