@@ -76,8 +76,8 @@
 ### 📊 **My Stats**  
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Farhanasharna2000&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhanasharna2000&layout=compact&theme=radical" alt="Top Languages" /> </div> 
-<p align="center" style="margin-top: 8px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhanasharna2000&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&background=000000" alt="GitHub Streak Stats" />
+<p align="center" style="margin-top: 12px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhanasharna2000&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&background=00008B" alt="GitHub Streak Stats" />
 </p>
 
 
