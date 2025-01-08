@@ -80,5 +80,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhanasharna2000&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Farhanasharna2000&currStreakNum=2FD3EB&fire=pink&sideLabels=F00" 
+    alt="GitHub Stats" 
+  />
+</div>
+
 ---
 
