@@ -59,7 +59,7 @@
 ### 🔗 **Connect with Me**  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/farhana-sharna-1526a7253/" target="_blank">
+  <a href="https://www.linkedin.com/in/farhana-sharna" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://api.whatsapp.com/send/?phone=1852681759&text&type=phone_number&app_absent=0" target="_blank">
