@@ -18,7 +18,7 @@
 ### 👩‍💻 **About Me**  
 
   🌍 I'm from **Dhaka, Bangladesh**, a city of dreams and diversity!   
-  📚 Currently learning **Node.js**  
+  📚 Currently learning **Next.js**  
   📚 **Educational Background**: MBA graduate turned web developer  
 
   💻 **Developer Journey**:  
