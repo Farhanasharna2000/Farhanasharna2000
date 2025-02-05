@@ -80,7 +80,7 @@
 </div> 
 <p align="center" style="margin-top: 12px;">
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=Farhanasharna2000&theme=navy-gear" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app?user=Farhanasharna2000&theme=github-dark-blue" alt="GitHub Streak" />
 </a>
 
 </p>
