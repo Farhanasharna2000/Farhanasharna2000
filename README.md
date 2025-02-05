@@ -74,7 +74,10 @@
 
 ### 📊 **My Stats**  
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Farhanasharna2000&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhanasharna2000&layout=compact&theme=radical" alt="Top Languages" /> </div> 
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Farhanasharna2000&show_icons=true&theme=radical" alt="GitHub Stats" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhanasharna2000&layout=compact&theme=radical" alt="Top Languages" /> 
+</div> 
 <p align="center" style="margin-top: 12px;">
   <a href="https://git.io/streak-stats">
     <img src="https://nirzak-streak-stats.vercel.app?user=Farhanasharna2000&theme=dark" alt="GitHub Streak" />
