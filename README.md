@@ -25,7 +25,7 @@
   - Started my programming journey with [Programming Hero](https://programming-hero.com/)  
   - Built several exciting projects along the way
   
-  🎯 **My Ambition**: Become a **Senior Developer** by 2025 and make a significant impact in the tech world!  
+  🎯 **My Ambition**: Become a **MERN Stack Developer** by 2025 and make a significant impact in the tech world!  
 
   ✨ **What I Love**:  
   - Crafting engaging and interactive web interfaces  
