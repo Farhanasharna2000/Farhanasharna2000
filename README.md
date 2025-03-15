@@ -81,11 +81,10 @@
 
 <p align="center" style="margin-top: 12px;">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Farhanasharna2000&theme=radical" alt="GitHub Streak" />
-  </a>
+    <img src="https://nirzak-streak-stats.vercel.app?user=Farhanasharna2000&theme=radical" alt="GitHub Streak" />
+</a>
+
 </p>
-
-
 
 ---
 
