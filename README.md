@@ -19,7 +19,7 @@
 
   🌍 I'm from **Dhaka, Bangladesh**, a city of dreams and diversity!   
   
-  📚 I’m currently working with **Next.js** , gaining hands-on experience 
+  📚 I’m currently working with **Next.js** , gaining hands-on experience. 
   
   📚 **Educational Background**: MBA graduate turned web developer  
 
@@ -45,6 +45,7 @@
 ### 🛠 **Skills & Tools**  
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
