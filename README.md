@@ -18,7 +18,7 @@
 ### 👩‍💻 **About Me**  
 
   🌍 I'm from **Dhaka, Bangladesh**, a city of dreams and diversity!   
-  📚 I’m currently working with **Next.js**  
+  📚 I’m currently working with **Next.js** , gaining hands-on experience 
   📚 **Educational Background**: MBA graduate turned web developer  
 
   💻 **Developer Journey**:  
