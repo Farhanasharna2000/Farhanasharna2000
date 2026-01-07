@@ -18,14 +18,14 @@
 ### 👩‍💻 **About Me**  
 
   🌍 I'm from **Dhaka, Bangladesh**, a city of dreams and diversity!   
-  📚 Currently learning **Next.js**  
+  📚 I’m currently working with **Next.js** , gaining hands-on experience. 
   📚 **Educational Background**: MBA graduate turned web developer  
 
   💻 **Developer Journey**:  
   - Started my programming journey with [Programming Hero](https://programming-hero.com/)  
   - Built several exciting projects along the way
   
-  🎯 **My Ambition**: Become a **MERN Stack Developer** by 2025 and make a significant impact in the tech world!  
+  🎯 **My Ambition**: Become a **MERN Stack Developer** by 2026 and make a significant impact in the tech world!  
 
   ✨ **What I Love**:  
   - Crafting engaging and interactive web interfaces  
