@@ -38,7 +38,7 @@
 
   🌟 **Explore More About Me**  
   Check out my portfolio to learn more about my work and journey:  
-  [farhanasharna.netlify.app](https://farhanasharna.netlify.app)
+  [https://www.farhanasharna.com](https://www.farhanasharna.com)
 
 ---
 
