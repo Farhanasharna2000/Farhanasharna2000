@@ -38,7 +38,7 @@
 
   🌟 **Explore More About Me**  
   Check out my portfolio to learn more about my work and journey:  
-  [https://www.farhanasharna.com]
+  https://www.farhanasharna.com
 
 ---
 
@@ -48,6 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
@@ -67,9 +68,6 @@
   </a>
   <a href="https://api.whatsapp.com/send/?phone=1852681759&text&type=phone_number&app_absent=0" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp" />
-  </a>
-  <a href="https://www.facebook.com/farhana.sharna.2024" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
   </a>
 </div>
 
